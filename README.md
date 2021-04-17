@@ -1,7 +1,7 @@
 # Flutter-VsCode-Snippets
 A repository where I keep track of my VS Code snippets for Flutter/Dart so I can set them in a new environment if need be.
 
-**Getter and Setter with notifyListeners**
+## **Getter and Setter with notifyListeners**
 
 This saves time by setting up the required datatype, public and private variables without having to type them out. A must use if you use notifyListeners() in your setters as well. You can modify the prefixes to fit your needs
 
