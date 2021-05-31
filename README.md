@@ -1,5 +1,5 @@
 # Flutter-VsCode-Snippets
-A repository where I keep track of my VS Code snippets for Flutter/Dart so I can set them in a new environment if need be.
+A repository where I keep track of my VS Code / Flutter snippets for Flutter/Dart so I can set them in a new environment if need be.
 
 ## **Getter and Setter with notifyListeners**
 
